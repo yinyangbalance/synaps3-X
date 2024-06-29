@@ -1,5 +1,5 @@
 --synaps3 X basic functions
-SCRIPT FOR SOLARA INJECTION : 
+-- syn for solara
 
 
 local bit = bit32
